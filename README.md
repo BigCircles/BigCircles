@@ -1,5 +1,5 @@
 
-Hey my name is Dan and I'm interested in infrastructure / system adminstration. I've never collaborated on any projects, but I'm interested in helping in projects if its within my skillset. As I said right now i'm learning the basics of linux, but after the basics I'm interested in Kubernetes and the containerized world.
+Hey my name is Dan and I'm interested in infrastructure / system adminstration. I've never collaborated on any projects, but I'm interested in helping in projects if its within my skillset. As I said right now i'm learning the basics of linux / Bash / C.
 
 If you'd like to contact me, please reach me at:
 email:yatchd@gmail.com 
